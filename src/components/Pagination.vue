@@ -1,5 +1,5 @@
 <template>
-	<div class="col alert alert-warning">Paginate!</div>
+  <div class="col alert alert-warning">Paginate!</div>
 </template>
 
 <script></script>

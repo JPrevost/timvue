@@ -1,8 +1,6 @@
 <template>
 	<nav class="col alert alert-danger">
-		<ul>
-			<li>Navigate this!</li>
-		</ul>
+		Page header and nav and stuff
 	</nav>
 </template>
 

@@ -1,5 +1,5 @@
 <template>
-	<div class="col alert alert-secondary">hint!</div>
+  <div class="col alert alert-secondary">hint!</div>
 </template>
 
 <script></script>
