@@ -1,5 +1,8 @@
 <template>
 	<div class="col-sm-9 alert alert-primary">
+		<div v-if="records == null">
+			<p>No records found</p>
+		</div>
 		<div v-for="record in records" :key="record.id">
 			<h3>
 				<a v-bind:href="record.sourceLink"> {{ record.title }} </a>

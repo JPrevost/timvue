@@ -1,6 +1,7 @@
 <template>
 	<div class="col alert alert-success">
 		<input
+			id="searchForm"
 			type="search"
 			class="field field-text b-search-input"
 			name="q"
